@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo aplicações.
-- 🎓 &nbsp; Aluno de Sistemas de Informação na **Universidade Federal Fluminense**
+- 🎓 &nbsp; Aluno de Sistemas de Informação na **Universidade Federal Fluminense**.
 - 🌱 &nbsp; Aprendendo sobre web services e frameworks front-end.
 
 <h3>🛠 Tech Stack</h3>
