@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo aplicações.
 - 🎓 &nbsp; Aluno de Sistemas de Informação na **Universidade Federal Fluminense**
-- 🌱 &nbsp; Aprendendo sobre Web Services e frameworks front-end.
+- 🌱 &nbsp; Aprendendo sobre web services e frameworks front-end.
 
 <h3>🛠 Tech Stack</h3>
 
