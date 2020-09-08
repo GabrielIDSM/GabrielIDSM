@@ -8,7 +8,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C# | Swift | C 
+- 💻 &nbsp; Python | Java | C# | Swift | C | PHP
 - 🌐 &nbsp; HTML | CSS | JavaScript | React
 - 🛢 &nbsp; MySQL | PostgreSQL
 - 🔧 &nbsp; Git | Markdown
