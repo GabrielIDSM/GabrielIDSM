@@ -4,15 +4,16 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo aplicações.
 - 🎓 &nbsp; Aluno de Sistemas de Informação na **Universidade Federal Fluminense**.
-- 🌱 &nbsp; Aprendendo PHP.
-
+- 🌱 &nbsp; Aprendendo PHP e Lua.
+- :office: &nbsp; Estagiário na área de desenvolvimento da **Telcomanager Technologies**. 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C# | Swift | C | PHP
+- 💻 &nbsp; Python | Java | C# | Swift | C | PHP | Lua
 - 🌐 &nbsp; HTML | CSS | JavaScript | React
-- 🛢 &nbsp; MySQL | PostgreSQL
-- 🔧 &nbsp; Git | Markdown
+- :file_folder: &nbsp; MySQL | PostgreSQL
+- 🔧 &nbsp; Git
 - 🖥 &nbsp; GIMP
+- :memo: &nbsp; Office | LaTeX | Markdown
 
 <br/>
 
