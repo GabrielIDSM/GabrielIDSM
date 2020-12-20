@@ -16,7 +16,7 @@
 - :memo: &nbsp; Office | LaTeX | Markdown
 <h3>:trophy: Conquistas</h3>
 
-- :space_invader: &nbsp; **Web Encryptor Project** - Acessos de +40 países ([conheça aqui!](https://gabrielidsm.github.io/Web-Encryptor))
+- :space_invader: &nbsp; **Web Encryptor Project** - Acessos de +45 países ([conheça aqui!](https://gabrielidsm.github.io/Web-Encryptor))
 
 <br/>
 
