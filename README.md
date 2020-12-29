@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About me </h3>
 
-- 🎓 &nbsp; Undergraduate Student at **Universidade Federal Fluminense**.
+- 🎓 &nbsp; Undergraduate Student at **Fluminense Federal University**.
 - 🌱 &nbsp; Learning PHP and Lua.
 - :office: &nbsp; Intern at **Telcomanager Technologies**. 
 <h3> 🛠 Tech Stack </h3>
