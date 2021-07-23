@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; Undergraduate Student at **Fluminense Federal University**.
 - 🌱 &nbsp; Learning Lua.
-- :office: &nbsp; Intern at **Telcomanager Technologies**. 
+- :office: &nbsp; Junior Software Developer at **Telcomanager Technologies**. 
 <h3> 🛠 Tech Stack </h3>
 
 - 💻 &nbsp; Python | Java | C# | Swift | C | PHP | Lua
