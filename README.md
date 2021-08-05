@@ -39,7 +39,9 @@
 
 - :space_invader: &nbsp; **Web Encryptor Project** ([click here!](https://gabrielidsm.github.io/Web-Encryptor))
 
-<h3> 👋 Say hello </h3>
+<h3> 🤝🏻 Connect with Me </h3>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/gabriel-inacio-uff/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gabriel%20Inácio-blue?style=flat-square&logo=linkedin"></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/gabriel-inacio-uff/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gabriel%20Inácio-blue?style=flat-square&logo=linkedin">
+<a href="mailto:gabrielinacio@id.uff.br"><img alt="Email" src="https://img.shields.io/badge/Email-gabrielinacio@id.uff.br-blue?style=flat-square&logo=gmail"></a>
+</p>
