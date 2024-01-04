@@ -7,9 +7,7 @@
 <h3> 🛠 Tech Stack </h3>
 
 - 💻 &nbsp; 
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-  ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)
+  ![C#](https://img.shields.io/badge/-cs-333333?style=flat&logo=csharp)
 - 🌐 &nbsp; 
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
