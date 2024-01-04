@@ -2,8 +2,7 @@
 
 <h3> 👨🏻‍💻 About me </h3>
 
-- 🎓 &nbsp; Student at **Fluminense Federal University**.
-- :office: &nbsp; Junior Software Developer at **Telcomanager Technologies**. 
+- :office: &nbsp; Junior Software Developer at **Granado Pharmácias | Perfumaria Phebo**. 
 
 <h3> 🛠 Tech Stack </h3>
 
